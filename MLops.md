@@ -1,4 +1,3 @@
-<img width="800" height="400" alt="MlOps-Lifecycle_" src="https://github.com/user-attachments/assets/7499e9d4-a57a-4fc6-8696-113270e842c7" />
 #### MLops (Machine Learning Operations)
 
 ##### **What is MLops?**
@@ -11,6 +10,7 @@ In real-world scenarios, building a machine learning model for a specific use ca
 
 So, the complete process of building a machine learning model from scratch, deploying it into a real-time environment, monitoring its performance, and maintaining it throughout its lifecycle is called MLOps (Machine Learning Operations).
 
+<img width="800" height="400" alt="MlOps-Lifecycle_" src="https://github.com/user-attachments/assets/7499e9d4-a57a-4fc6-8696-113270e842c7" />
 
 
 ##### **What are the steps in MLOps?**
@@ -62,6 +62,8 @@ The output of this step is a clean, structured, and model-ready dataset.
 
 
 **Step-2: Choosing the Right Model**
+<img width="700" height="393" alt="choosing_model_1" src="https://github.com/user-attachments/assets/8b5a086e-5a7e-4dcf-b04c-7ad2af8de44b" />
+
 
 
 

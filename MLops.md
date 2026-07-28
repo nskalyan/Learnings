@@ -1,3 +1,4 @@
+<img width="800" height="400" alt="MlOps-Lifecycle_" src="https://github.com/user-attachments/assets/7499e9d4-a57a-4fc6-8696-113270e842c7" />
 #### MLops (Machine Learning Operations)
 
 ##### **What is MLops?**

@@ -61,10 +61,10 @@ The output of this step is a clean, structured, and model-ready dataset.
 
 
 
+
 **Step-2: Choosing the Right Model**
+
 <img width="700" height="393" alt="choosing_model_1" src="https://github.com/user-attachments/assets/8b5a086e-5a7e-4dcf-b04c-7ad2af8de44b" />
-
-
 
 
 After preparing the data, the next step is selecting the appropriate machine learning model based on the problem statement.

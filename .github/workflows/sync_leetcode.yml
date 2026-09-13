@@ -3,7 +3,7 @@ name: Sync Leetcode
 on:
   workflow_dispatch: # Allows you to trigger it manually anytime
   schedule:
-    - cron: "0 8 * * 6" # Automatically checks for new updates every Saturday at 8:00 AM UTC
+    - cron: "0 8 * * 6" 
 
 jobs:
   build:
@@ -16,5 +16,6 @@ jobs:
           github-token: ${{ github.token }}
           leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
-          destination-folder: "solutions" # Saves your files inside a folder named "solutions"
+          destination-folder: "solutions"
+          commit-time-interval: 2 
           verbose: true
